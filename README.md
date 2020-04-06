@@ -16,7 +16,7 @@ struct ServiceManager {
 }
 ```
 
-__Service Wrapper_
+__Service Wrapper__
 
 ```swift
 @propertyWrapper
@@ -46,7 +46,7 @@ final class ServiceWrapper<T: Codable> {
 }
 ```
 
-__Service Manager_
+__Service Manager__
 
 ```swift
 protocol Service {
