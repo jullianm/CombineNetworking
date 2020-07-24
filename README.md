@@ -46,7 +46,7 @@ final class ServiceWrapper<T: Codable> {
 }
 ```
 
-__Service Manager__
+__URLSession__
 
 ```swift
 protocol Service {
